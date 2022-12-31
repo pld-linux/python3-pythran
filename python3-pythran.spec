@@ -7,13 +7,13 @@
 Summary:	Ahead of Time compiler for numeric kernels
 Summary(pl.UTF-8):	Kompilator z wyprzedzeniem dla jąder numerycznych
 Name:		python3-pythran
-Version:	0.11.0
-Release:	2
+Version:	0.12.0
+Release:	1
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/pythran/
 Source0:	https://files.pythonhosted.org/packages/source/p/pythran/pythran-%{version}.tar.gz
-# Source0-md5:	e09e90484771937ab499380858bdb18d
+# Source0-md5:	d2961ece35b4b9f44a84ef31df1b21ff
 URL:		https://pypi.org/project/pythran/
 BuildRequires:	python3-modules >= 1:3.2
 BuildRequires:	python3-pytest-runner
