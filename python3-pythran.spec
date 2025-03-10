@@ -8,7 +8,7 @@ Summary:	Ahead of Time compiler for numeric kernels
 Summary(pl.UTF-8):	Kompilator z wyprzedzeniem dla jąder numerycznych
 Name:		python3-pythran
 Version:	0.15.0
-Release:	1
+Release:	2
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/pythran/
